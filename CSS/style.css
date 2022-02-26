@@ -64,4 +64,14 @@ nav a:hover {
 .home-section p:nth-child(3) {
   font-size: 40px;
 }
-
+.head-image {
+  width: 50%;
+  position: relative;
+}
+.rep-pic {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50% -50%);
+  height: 400px;
+}
