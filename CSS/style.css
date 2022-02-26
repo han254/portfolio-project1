@@ -4,20 +4,20 @@
   box-sizing: border-box;
   font-family: sans-serif;
   text-decoration: none;
-  background-color: lightgray;
+  background-color: aqua;
 }
 div {
   display: block;
 }
 label.logo {
-  color: blue;
+  color: black;
   padding: 0 10px;
   font-size: 24px;
   line-height: 60px;
   font-weight: bold;
 }
-.folio{
-    color:red;
+.folio {
+  color: red;
 }
 nav ul {
   float: right;
@@ -34,7 +34,7 @@ nav ul li {
   margin: 0 5px;
 }
 nav ul li a {
-  color: blue;
+  color: black;
   font-size: 14px;
 }
 nav a:hover {
@@ -42,10 +42,17 @@ nav a:hover {
   transition: 0.3s;
 }
 .home-section {
-  flex-direction: column;
-  margin: 120px 0px 0px 120px;
+  display: flex;
   font-size: medium;
-
+}
+.texts {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: start;
+  margin: 100px 100px 0px 0px;
 }
 .home-section p:first-child {
   font-size: 30px;
@@ -57,8 +64,4 @@ nav a:hover {
 .home-section p:nth-child(3) {
   font-size: 40px;
 }
-img{
-float: right;
-height: 350px;
 
-}
