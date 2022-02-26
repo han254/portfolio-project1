@@ -107,7 +107,7 @@ nav a:hover {
 .About-me .text li {
   font-size: 14px;
 }
-.heading{
+.heading {
   text-align: center;
   text-transform: uppercase;
 }
@@ -119,18 +119,17 @@ nav a:hover {
 }
 .project1 {
   flex: 1;
-  width: 250px;
-  height: 200px;
+  width: 200px;
+  height: 250px;
   border-style: groove;
   border-radius: 5px;
   margin: 20px;
 }
 .project2 {
   flex: 1;
-  width: 250px;
-  height: 200px;
+  width: 200px;
+  height: 250px;
   border-style: groove;
   border-radius: 5px;
   margin: 20px;
 }
-
