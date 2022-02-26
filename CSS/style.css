@@ -46,6 +46,7 @@ nav a:hover {
 .home-section {
   align-items: center;
   justify-content: center;
+  margin: 100px;
 }
 .texts {
   width: 50%;
@@ -68,7 +69,6 @@ nav a:hover {
 .home-section p:nth-child(3) {
   font-size: 40px;
   font-weight: 300;
-
 }
 .head-image {
   width: 50%;
@@ -90,9 +90,7 @@ nav a:hover {
 .About-me .text {
   width: 550px;
 }
-/* .About-me #image {
-  margin: 150px 20px 0px 0px;
-} */
+
 .About-me .text h2 {
   font-size: 30px;
   text-transform: capitalize;
