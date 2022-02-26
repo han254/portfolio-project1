@@ -26,7 +26,7 @@ My website is not responsive to all the devices, but with time am looking forwar
 
 ## Support and contact details
 
-[You can contact me through my email](peternjenga1706@gmail.com)
+[peternjenga1706@gmail.com]
 
 ##### Link to my github-pages
 
