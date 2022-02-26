@@ -20,13 +20,13 @@ My website is not responsive to all the devices, but with time am looking forwar
 
 ## Technologies Used
 
--git
--HTML
--CSS
+*git
+*HTML
+*CSS
 
 ## Support and contact details
 
-{Let people know what to do if they run into any issues or have questions, ideas or concerns. Encourage them to contact you or make a contribution to the code.}
+[You can contact me through my email](peternjenga1706@gmail.com)
 
 ##### Link to my github-pages
 
