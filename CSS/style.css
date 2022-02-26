@@ -41,8 +41,9 @@ nav a:hover {
   transition: 0.3s;
 }
 .home-section {
-  display: flex;
-  font-size: medium;
+  align-items: center;
+  justify-content: center;
+  margin: 100px;
 }
 .texts {
   width: 50%;
@@ -54,16 +55,17 @@ nav a:hover {
   margin: 100px 100px 0px 0px;
 }
 .home-section p:first-child {
-  font-size: 30px;
-  font-style: italic;
-}
-.home-section p:nth-child(2) {
   font-size: 70px;
   font-weight: 500;
   font-style: oblique;
 }
+.home-section p:nth-child(2) {
+  font-size: 30px;
+  font-style: italic;
+}
 .home-section p:nth-child(3) {
   font-size: 40px;
+  font-weight: 300;
 }
 .head-image {
   width: 50%;
@@ -85,9 +87,7 @@ nav a:hover {
 .About-me .text {
   width: 550px;
 }
-.About-me #image {
-  margin: 150px 20px 0px 0px;
-}
+
 .About-me .text h2 {
   font-size: 30px;
   text-transform: capitalize;
@@ -113,6 +113,9 @@ nav a:hover {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+}
+.projo {
+  color: brown;
 }
 .project1 {
   flex: 1;
