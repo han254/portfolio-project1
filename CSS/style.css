@@ -17,7 +17,7 @@ label.logo {
   font-weight: bold;
 }
 .folio {
-  color: red;
+  color:red;
 }
 nav ul {
   float: right;
@@ -85,5 +85,21 @@ nav a:hover {
   width: 550px;
 }
 .About-me #image {
-  margin: 100px 20px 0px 0px;
+  margin: 150px 20px 0px 0px;
+}
+.About-me .text h2{
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+.About-me .text h5{
+  font-size: 16px;
+  font-style:oblique;
+  font-weight: 700;
+}
+.About-me .text p{
+  font-size: 18px;
+}
+.About-me .text li{
+  font-size: 14px;
 }
