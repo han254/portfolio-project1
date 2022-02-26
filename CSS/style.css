@@ -1,0 +1,38 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+ div{
+    display: block;
+}
+label.logo{
+color: blue;
+padding: 0 10px;
+font-size: 24px;
+line-height: 60px;
+font-weight: bold;
+}
+ nav ul{
+float: right;
+margin-right: 30px;
+text-align: center;
+}
+nav li{
+    display: inline-block;
+}
+ nav ul li{
+    display: inline-block;
+    line-height: 60px;
+    margin: 0 5px;
+}
+ nav ul li a{
+    color: blue;
+    font-size: 14px;
+    }
+    nav a:hover{
+        color: red;
+        transition: 0.3s; 
+    }
