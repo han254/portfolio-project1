@@ -75,3 +75,15 @@ nav a:hover {
   transform: translate(-50% -50%);
   height: 400px;
 }
+.About-me {
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.About-me .text {
+  width: 550px;
+}
+.About-me #image {
+  margin: 100px 20px 0px 0px;
+}
