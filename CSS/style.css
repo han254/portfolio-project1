@@ -59,10 +59,10 @@ nav a:hover {
   font-weight: 500;
   font-style: oblique;
 }
-.home-section #p3 {
+ .home-section #p3{
   font-size: 30px;
   font-style: italic;
-}
+} 
 .home-section p:nth-child(3) {
   font-size: 40px;
   font-weight: 300;
