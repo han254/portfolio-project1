@@ -124,6 +124,7 @@ nav a:hover {
   border-style: groove;
   border-radius: 5px;
   margin: 20px;
+  align-items: center;
 }
 .project2 {
   flex: 1;
@@ -141,3 +142,6 @@ nav a:hover {
   border-radius: 5px;
   margin: 20px;
 }
+
+
+
