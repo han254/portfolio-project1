@@ -30,7 +30,7 @@ You can contact me through my email[peternjenga1706@gmail.com]
 
 ##### Link to my github-pages
 
-(https://github.com/han254/portfolio-project1)
+(https://han254.github.io/portfolio-project1/)
 
 ### License
 
